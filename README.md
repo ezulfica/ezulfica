@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezulfica
-- 👀 I’m interested in mathematics, data, economics and new technology (robots, blockchain, IA)
+- 👀 I’m interested in mathematics, data, economics and new technology (robotics, blockchain, IA)
 - 🌱 I’m currently completing my master degree in Applied Mathematics. I choose to focus on statistics and looking to start my career as a data scientist. 
 - 📫 Feel free to contact me on linkedin : https://www.linkedin.com/in/ezulfica/
 
