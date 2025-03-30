@@ -33,7 +33,10 @@ I’ve worked on a variety of data-focused projects across different industries.
 ### 🏎️ [F1 Data Analysis](https://github.com/ezulfica/f1-data-analysis)
 *A reporting tool for analyzing Formula 1 seasons.*
 
-### 🤖 [Nonogram Solver](https://github.com/ezulfica/SANonogramSolver)
+### 🔥🐍 [pySpark-sandbox](https://github.com/ezulfica/pySpark-sandbox)
+*A ready-to-use pySpark sandbox to use inside a devcontainer*
+
+### 🧩 [pySpark-sandbox](https://github.com/ezulfica/SANonogramSolver)
 *A Monte Carlo Markov Chain algorithm for solving Nonogram puzzles.*
 
 ---
