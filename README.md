@@ -34,7 +34,7 @@ I’ve worked on a variety of data-focused projects across different industries.
 *A reporting tool for analyzing Formula 1 seasons.*
 
 ### 🔥🐍 [pySpark-sandbox](https://github.com/ezulfica/pySpark-sandbox)
-*A ready-to-use pySpark sandbox to use inside a devcontainer*
+*A ready-to-use pySpark sandbox inside a devcontainer*
 
 ### 🧩 [pySpark-sandbox](https://github.com/ezulfica/SANonogramSolver)
 *A Monte Carlo Markov Chain algorithm for solving Nonogram puzzles.*
