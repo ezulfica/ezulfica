@@ -36,7 +36,7 @@ I’ve worked on a variety of data-focused projects across different industries.
 ### 🔥🐍 [pySpark-sandbox](https://github.com/ezulfica/pySpark-sandbox)
 *A ready-to-use pySpark sandbox inside a devcontainer*
 
-### 🧩 [pySpark-sandbox](https://github.com/ezulfica/SANonogramSolver)
+### 🧩 [SANonogramSolver](https://github.com/ezulfica/SANonogramSolver)
 *A Monte Carlo Markov Chain algorithm for solving Nonogram puzzles.*
 
 ---
