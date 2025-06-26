@@ -1,6 +1,6 @@
 # Hi there, I'm Eric ! 👋
 
-🚀 ** Data Enthusiast | Problem Solver **
+🚀 **Data Enthusiast | Problem Solver**
 
 I'm a data professional passionate about **data analytics, engineering, and automation**. With over three years of experience, I've worked on projects in **human resources, supply chain, and finance**, helping businesses turn raw data into actionable insights.
 
